@@ -30,7 +30,7 @@ class AMBOT():
         return [
             'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
             'MongoDB', 'MySQL', 'Azure', 'GG','ARM','MT-Manager',
-            'Android-Studio','Vs-Code'
+            'Android-Studio','Vs-Code','All-GameHacks','Android-Hacking'
         ]
     def operating_system(self):
         return [
