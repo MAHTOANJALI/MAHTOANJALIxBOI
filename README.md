@@ -47,5 +47,3 @@ class MAHTO():
 <h1> <img src="https://te.legra.ph/file/471ef129b9c1b479676fd.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://raw.githubusercontent.com/MAHTOANJALI/MAHTOANJALIxBOI/master/resources/telegram_icon.png" width="60px">](https://t.me/QUEENx_GOD) [<img src="https://raw.githubusercontent.com/MAHTOANJALI/MAHTOANJALIxBOI/master/resources/github_icon.png" width="60px">](https://github.com/MAHTOANJALI) [<img src="https://raw.githubusercontent.com/MAHTOANJALI/MAHTOANJALIxBOI/master/resources/youtube_icon.png" width="60px">](https://youtube.com/@QUEENx_GOD) [<img src="https://github.com/MAHTOANJALI/MAHTOANJALIxBOI/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/@QUEENx_GOD)
-
-[<img src="https://github.com/MAHTOANJALI/MAHTOANJALIxBOI/blob/master/resources/hr.gif"/>](https://github.com/mahtoanjali)
