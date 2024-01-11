@@ -56,5 +56,4 @@ class AMBOT():
 
 [<img src="https://t.me/QUEENx_GOD" alt="MAHTO Spotify" width="75%" />](https://t.me/QUEENx_GOD)
 
-[<img src="https://github.com/MAHTOANJALI/MAHTOANJALIxBOI/blob/master/resources/hr.gif"/>](https://github.com/mahtoanjali)
 
