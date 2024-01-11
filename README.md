@@ -1,6 +1,6 @@
 <img src="https://github.com/MAHTOANJALI/MAHTOANJALIxBOI/blob/master/resources/hr.gif"/>](https://github.com/MAHTOANJALI)
 
-<h1> <img src="https://te.legra.ph/file/471ef129b9c1b479676fd.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴍᴀʜᴛᴏ ᴀɴᴊᴀʟɪ</h1>
+<h1> <img src="https://te.legra.ph/file/471ef129b9c1b479676fd.jpg" height="90px" width="80px"> ʜᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴍᴀʜᴛᴏ ᴀɴᴊᴀʟɪ</h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/MAHTOANJALI/count.svg" />
