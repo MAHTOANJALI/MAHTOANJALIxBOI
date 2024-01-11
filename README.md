@@ -51,9 +51,3 @@ class AMBOT():
 [<img src="https://raw.githubusercontent.com/MAHTOANJALI/MAHTOANJALIxBOI/master/resources/telegram_icon.png" width="60px">](https://t.me/QUEENx_GOD) [<img src="https://raw.githubusercontent.com/MAHTOANJALI/MAHTOANJALIxBOI/master/resources/github_icon.png" width="60px">](https://github.com/MAHTOANJALI) [<img src="https://raw.githubusercontent.com/MAHTOANJALI/MAHTOANJALIxBOI/master/resources/youtube_icon.png" width="60px">](https://youtube.com/@QUEENx_GOD) [<img src="https://github.com/MAHTOANJALI/MAHTOANJALIxBOI/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/@QUEENx_GOD)
 
 [<img src="https://github.com/MAHTOANJALI/MAHTOANJALIxBOI/blob/master/resources/hr.gif"/>](https://github.com/mahtoanjali)
-
-<h1> <img src="https://raw.githubusercontent.com/mahtoanjali/MAHTOANJALIABOUT/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
-
-[<img src="https://t.me/QUEENx_GOD" alt="MAHTO Spotify" width="75%" />](https://t.me/QUEENx_GOD)
-
-
